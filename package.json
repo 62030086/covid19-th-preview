@@ -1,0 +1,19 @@
+{
+  "name": "covid19-th-preview",
+  "version": "1.0.0",
+  "description": "Fuck Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/62030086/covid19-th-preview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/62030086/covid19-th-preview/issues"
+  },
+  "homepage": "https://github.com/62030086/covid19-th-preview#readme"
+}
