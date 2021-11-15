@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+    background-size: cover;
+    min-height: 800px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Prompt';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
