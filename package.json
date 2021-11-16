@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/62030086/covid19-th-preview/issues"
   },
-  "homepage": "https://github.com/62030086/covid19-th-preview#readme"
+  "homepage": "https://github.com/62030086/covid19-th-preview#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
